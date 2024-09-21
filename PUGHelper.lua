@@ -193,10 +193,10 @@ local function ShowEditableTextBox(defaultText)
          local npcID = GetNPCIDFromGUID(targetGUID)
          
          -- Check if the targeted NPC ID is in the npcMessages table
-         local message = npcMessages[npcID] or defaultMessage -- Use defaultMessage if npcID not in table
-         
+         if npcMessages[npcID] then
          -- Show the editable text box with the message
-         ShowEditableTextBox(message)
+             ShowEditableTextBox(message)
+         end
       end
    end
    
