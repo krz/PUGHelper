@@ -195,7 +195,7 @@ local function ShowEditableTextBox(defaultText)
          -- Check if the targeted NPC ID is in the npcMessages table
          if npcMessages[npcID] then
          -- Show the editable text box with the message
-             ShowEditableTextBox(message)
+             ShowEditableTextBox(npcMessages[npcID])
          end
       end
    end
