@@ -47,6 +47,15 @@ local npcMessages = {
    [40319] = "(1) Phase 1 Kill Adds (2) Phase 2 Kill Adds and Avoid Stuff (this can get crazy, help your healer, avoid stuff) (3) Boss done at 50%.",
    -- Erudax
    [40484] = "(1) Avoid Tenticles (2) Compress when room starts closing in but stay as spread as possible in the tiny space we have.",
+   -- -- Siege of Boralus
+   -- Chopper Redhook
+   [144160] = "(1) Kite boss into bombs (save big DPS CDs until boss is stunned, he takes more damage). (2) Avoid bombs. (3) Run away when he sucks you in. (4) Avoid swirlies. (5) Cleave Adds.",
+   -- Dread Captain Lockwood
+   [129208] = "(1) Avoid stuff on ground. (2) Kill adds in intermission phase.",
+   -- Hadal Darkfathom
+   [130836] = "(1) Avoid swirlies. (2) When [TIDAL SURGE] is cast, stand on the opposite side of the statue; Follow Tank.",
+   -- Viq'Goth
+   [128652] = "(1) Kill Demolishing Terror before Gripping Terror. (2) Avoid Swirlies. (3) When tenticles are killed on a platform, hop into cannon and shoot boss. (4) Repeat on second platform. (5) Repeat on Boat Platform. (6) Win.",
    -- --
 
    -- Test
