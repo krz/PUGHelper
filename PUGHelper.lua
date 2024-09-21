@@ -24,7 +24,13 @@ local npcMessages = {
    [210156] = "(1) Destroy 1 shard at a time. (2) Pick up only 1-3 black orbs at a time.",
    -- Void Speaker Eirich
    [213119] = "(1) Drop blue circles at edge of room, be mindful of placement. (2) When you get corruption, stand near (not in) a portal to remove it. (3) Avoid big boss cone.",
-   -- --
+   -- -- The Dawnbreaker
+   -- Speaker Shadowcrown
+   [211087] = "(1) She will sometimes project 3 purple beams and rotate. Avoid the beams. (2) Remember to hop onto mount and fly away from big cast; 50%/0%.",
+   -- Anub'ikkaj
+   [211089] = "(1) Run out of purple circle. (2) Do not get hit by giant purple ball. (3) If targeted by ball, send it a long path and not into a wall.",
+   -- Rasha'nan
+   [224552] = "(1) Barrels to boss ASAP. DPS in first phase doesn't matter, only barrels. (2) You can fly straight to second platform but first grab a gold orb. (3) In Phase 2, take webs to edge of platform. (4) Boss down on 60%.",
    -- Test
    [222619] = "This is NPC 222619, proceed with caution!", -- Message for NPC ID 222619
    [222618]  = "NPC 12345 detected! Watch out for special abilities.", -- Message for NPC ID 12345
