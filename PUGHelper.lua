@@ -65,8 +65,13 @@ local npcMessages = {
    [166882] = "(1) Aim meat hook (arrow) at the boss on stage. (2) Hold DPS CDs until boss is pulled down. (3) Hit boss with meathook even when not on stage.",
    -- Nalthor the Rimebinder
    [166945] = "(1) Avoid swirlies. (2) Ranged spread way out. If someone gets frozen, get out of their circle ASAP. Do not dispell until the giant circle is empty. (3) If you get sent away, run down gauntlet asap and kill mob.",
-   -- --
-
+   -- -- Mists of Tirna Scithe
+   -- Ingra Maloch
+   [154567] = "(1) Hold DPS CDs until boss is not debuffed. (2) Avoid swirlies.",
+   -- Mistcaller
+   [170217] = "(1) 70%/40%/10% maze-like mechanic. Must find the odd-man out and kill it. (2) Kill adds. (3) Avoid balls.",
+   -- Tred'ova
+   [164517] = "(1) Avoid swirls. (2) If tethered to tank, run away from tank. (stay on opposite side of boss from tank). (3) Kill adds. (4) 70%/40% Boss shields, drop shield and interrupt.",
    -- Test
    [222619] = "This is NPC 222619, proceed with caution!", -- Message for NPC ID 222619
    [222618]  = "NPC 12345 detected! Watch out for special abilities.", -- Message for NPC ID 12345
