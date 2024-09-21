@@ -6,9 +6,17 @@ frame:RegisterEvent("PLAYER_TARGET_CHANGED")
 
 -- Create a table that maps NPC IDs to specific messages
 local npcMessages = {
+   -- -- City of Threads
+   -- Orator Krix'vizk
+   [216619] = "(1) Stay in circle or die. (2) When boss hits 100 energy, they will drop shit on the floor. Stack on tank and move together or die.",
+   -- Fangs of the Queen
+   -- The Coaglamation
+   [216320] = "When boss slams the ground and knocks you back, run around and absorb 2-3 black orbs.",
+   -- Izo, the Grand Splicer
+   [216658] = "Do your best to avoid the orbs on the ground. They will project where they will go.",
+   -- Test
    [222619] = "This is NPC 222619, proceed with caution!", -- Message for NPC ID 222619
    [222618]  = "NPC 12345 detected! Watch out for special abilities.", -- Message for NPC ID 12345
-   [67890]  = "NPC 67890 is friendly, no need to attack.", -- Message for NPC ID 67890
 }
 
 -- Default message if the NPC ID is not in the table
