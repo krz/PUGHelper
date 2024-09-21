@@ -38,7 +38,17 @@ local npcMessages = {
    [215405] = "(1) Avoid big swirlies (2) At 100 energy, it will summon a swarm. Stay inside the safe circle or die. (3) Still avoid swirlies.",
    -- Ki'katal the Harvester
    [231649] = "(1) The mobs running across the arena will drop a blue goo. (2) Blue goo will root you in place and has to be killed. (3) We want 5-7 Goo spots when boss does big pull in. (4) When boss does pull in, STAND IN GOO to get rooted or die. (5) When cast ends, KILL ALL ROOTS. CC will kill roots. (6) Avoid swirlies. (7) Thank your healer. (8) Win.",
+   -- -- Grim Batol
+   -- General Umbriss
+   [39625] = "(1) Avoid orange circles on ground. (2) When room turns purple, look for safe lane.",
+   -- Forgemaster Throngus
+   [40177] = "(1) When boss changes weapon, he does lots of aoe damage. (2) Phase 1 is Axe, drop pizza slices next to each other. (3) Phase 2 is dual wield, tank buster, big heals on tank (4) Phase 3 is 2h mace - kite phase. (5) Rinse & Repeat.",
+   -- Drahga Shadowburner
+   [40319] = "(1) Phase 1 Kill Adds (2) Phase 2 Kill Adds and Avoid Stuff (this can get crazy, help your healer, avoid stuff) (3) Boss done at 50%.",
+   -- Erudax
+   [40484] = "(1) Avoid Tenticles (2) Compress when room starts closing in but stay as spread as possible in the tiny space we have.",
    -- --
+
    -- Test
    [222619] = "This is NPC 222619, proceed with caution!", -- Message for NPC ID 222619
    [222618]  = "NPC 12345 detected! Watch out for special abilities.", -- Message for NPC ID 12345
