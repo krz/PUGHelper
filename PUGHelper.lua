@@ -14,6 +14,17 @@ local npcMessages = {
    [216320] = "When boss slams the ground and knocks you back, run around and absorb 2-3 black orbs.",
    -- Izo, the Grand Splicer
    [216658] = "Do your best to avoid the orbs on the ground. They will project where they will go.",
+   -- -- The Stonevault
+   -- E.D.N.A.
+   [210108] = "Clear a few spikes at a time with the boss's arrow attack. If all spikes break at same time, we all die. Don't stack.",
+   -- Master Machines, Speaker Brokk and Speaker Dorlita
+   [213216] = "1) Stay out of the Giant Cube lane. (2) Hang out near clear corner. (3) You can mostly stay with tank. (4) Start by targeting the small guy. (5) Keep him interrupted ALL FIGHT. (6) Switch DPS to big guy when small guy runs away (KEEP SMALL GUY INTERRUPTED) (7) Kill both at same time or we all die.",
+   [213217] = "1) Stay out of the Giant Cube lane. (2) Hang out near clear corner. (3) You can mostly stay with tank. (4) Start by targeting the small guy. (5) Keep him interrupted ALL FIGHT. (6) Switch DPS to big guy when small guy runs away (KEEP SMALL GUY INTERRUPTED) (7) Kill both at same time or we all die.",
+   -- Skarmorak
+   [210156] = "(1) Destroy 1 shard at a time. (2) Pick up only 1-3 black orbs at a time.",
+   -- Void Speaker Eirich
+   [213119] = "(1) Drop blue circles at edge of room, be mindful of placement. (2) When you get corruption, stand near (not in) a portal to remove it. (3) Avoid big boss cone.",
+   -- --
    -- Test
    [222619] = "This is NPC 222619, proceed with caution!", -- Message for NPC ID 222619
    [222618]  = "NPC 12345 detected! Watch out for special abilities.", -- Message for NPC ID 12345
