@@ -56,6 +56,15 @@ local npcMessages = {
    [130836] = "(1) Avoid swirlies. (2) When [TIDAL SURGE] is cast, stand on the opposite side of the statue; Follow Tank.",
    -- Viq'Goth
    [128652] = "(1) Kill Demolishing Terror before Gripping Terror. (2) Avoid Swirlies. (3) When tenticles are killed on a platform, hop into cannon and shoot boss. (4) Repeat on second platform. (5) Repeat on Boat Platform. (6) Win.",
+   -- -- The Necrotic Wake
+   -- Blightbone
+   [162691] = "(1) Aim belch away from group. (2) Kill adds.",
+   -- Amarth
+   [163157] = "(1) Interrupt boss. (2) Kill adds. (3) Boss will periodically spew gross out of mouth and rotate. Just avoid.",
+   -- Surgeon Stitchflesh
+   [166882] = "(1) Aim meat hook (arrow) at the boss on stage. (2) Hold DPS CDs until boss is pulled down. (3) Hit boss with meathook even when not on stage.",
+   -- Nalthor the Rimebinder
+   [166945] = "(1) Avoid swirlies. (2) Ranged spread way out. If someone gets frozen, get out of their circle ASAP. Do not dispell until the giant circle is empty. (3) If you get sent away, run down gauntlet asap and kill mob.",
    -- --
 
    -- Test
