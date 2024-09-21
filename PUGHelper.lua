@@ -31,6 +31,14 @@ local npcMessages = {
    [211089] = "(1) Run out of purple circle. (2) Do not get hit by giant purple ball. (3) If targeted by ball, send it a long path and not into a wall.",
    -- Rasha'nan
    [224552] = "(1) Barrels to boss ASAP. DPS in first phase doesn't matter, only barrels. (2) You can fly straight to second platform but first grab a gold orb. (3) In Phase 2, take webs to edge of platform. (4) Boss down on 60%.",
+   -- -- Ara-Kara, City of Echoes
+   -- Avanoxx
+   [213179] = "(1) Kill Ads (2) Kill ads (3) Kill ads.",
+   -- Anub'zekt
+   [215405] = "(1) Avoid big swirlies (2) At 100 energy, it will summon a swarm. Stay inside the safe circle or die. (3) Still avoid swirlies.",
+   -- Ki'katal the Harvester
+   [231649] = "(1) The mobs running across the arena will drop a blue goo. (2) Blue goo will root you in place and has to be killed. (3) We want 5-7 Goo spots when boss does big pull in. (4) When boss does pull in, STAND IN GOO to get rooted or die. (5) When cast ends, KILL ALL ROOTS. CC will kill roots. (6) Avoid swirlies. (7) Thank your healer. (8) Win.",
+   -- --
    -- Test
    [222619] = "This is NPC 222619, proceed with caution!", -- Message for NPC ID 222619
    [222618]  = "NPC 12345 detected! Watch out for special abilities.", -- Message for NPC ID 12345
