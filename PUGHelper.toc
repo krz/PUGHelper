@@ -1,6 +1,6 @@
-## Interface: 110002
+## Interface: 110100
 ## Title: PUGHelper
 ## Notes: An add-on that posts mythic dungeon instructions to the chat
-## Version: 0.1
+## Version: 0.1.1
 ## Author: Ki-DerAbyssischeRat
 PUGHelper.lua
